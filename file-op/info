@@ -1,0 +1,40 @@
+Nodejs :-
+
+Javascript Engine
+it is a tool to compile and execute the javascript source code.
+
+    Execution
+      1. Web browser (Javascript engine)
+      2. Nodejs (Javascript engine)
+
+
+
+      Nodejs is a software developed using C, C++ and javascript which uses the V8 javascript
+      engine of Google chrome to execute javascript code without web browsers.
+
+      Nodejs provides runtime environment to execute javascript programs
+
+
+      Nodejs comes with some builtin packages(libraries) which are helpful in implementing the
+      features like file operation, http operations,etc.
+
+      There are many other packages supported by nodejs but those are not developed by nodejs
+      team instead they are developed by individual developers and communities of developers, those
+      packages are referred as third party packages.
+
+
+      Built in packages comes with nodejs so there is no need to install those packages but
+      third party packages needs to be installed, updated, unintalled,etc.
+
+      NPM - Node Package Manager
+      NPM is used to manage the thrd party packages.
+
+
+      NPX - Node Package Executor
+      NPX is used to run some nodejs packages.
+
+
+
+
+    Yarn
+      it is a package manager alternative to NPM
